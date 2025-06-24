@@ -1,5 +1,3 @@
-package gerador;
-
         /** Objetivo: O usuário precisa acertar um número aleatório entre 1 a 100.
          * 
          * 1 - Criar um número aleatório (1 a 100)
